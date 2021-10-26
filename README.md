@@ -15,9 +15,11 @@
 
 主要内容在于参数与CMD命令的映射
 
+例如将常用命令映射为单字符命令、添加Vscode不同工作区快捷方式以此实现不同工作区之间的切换、添加管理员权限的窗口模拟类似Linux su命令的操作等等等
+
 原C语言版本  https://github.com/lengqie/Kuai/tree/master/static/c (Deprecated)
 
-![](https://raw.githubusercontent.com/lengqie/Hou.GS/master/static/dome.gif)
+![](https://raw.githubusercontent.com/lengqie/Kuai/master/static/dome.gif)
 
 ### 1.2 功能
 
